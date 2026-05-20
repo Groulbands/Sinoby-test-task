@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Haval";
+  src: url("../assets/fonts/Haval-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Haval";
+  src: url("../assets/fonts/Haval-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-display: swap;
+}

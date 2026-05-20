@@ -1,0 +1,20 @@
+:root {
+  --font-main: "Haval", Arial, sans-serif;
+
+  --color-black: #000000;
+  --color-white: #ffffff;
+  --color-accent: #00cabf;
+  --color-bg-light: #f3f3f3;
+  --color-light-gray: #e7e7e7;
+  --color-gray: #ADADAD;
+  --color-red: #A13A21;
+
+  --container-width: 1170px;
+  --container-padding: 16px;
+
+  --header-height: 76px;
+  --menu-height: 33px;
+  --hero-height: 756px;
+
+  --transition-base: 180ms ease;
+}
