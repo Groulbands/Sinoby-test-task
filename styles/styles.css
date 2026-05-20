@@ -217,7 +217,7 @@
 .cars__grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 31px;
+  gap: 20px;
 }
 
 .car-card {
