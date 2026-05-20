@@ -382,7 +382,7 @@
   height: 28px;
 }
 
-svg:hover .car-card__feature-image {
+.car-card__feature:hover .car-card__feature-image {
   fill: var(--color-accent)
 }
 
